@@ -1,7 +1,7 @@
 # **[NeurIPS2023] A Framework for Semi-Supervised Federated Object Detection** 🚌 
 
 ## 💡 **Introduction**
-This official repository contains the implementation and dataset setup for the research paper **"Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Approach for Object Detection"**, presented at NeurIPS 2023 [[Link](https://openreview.net/forum?id=2D7ou48q0E)], by **[Taehyeon Kim](https://taehyeon.oopy.io/)**, Eric Lin, Junu Lee, Christian Lau, and Vaikkunth Mugunthan. 
+This official repository contains the implementation and dataset setup for the research paper **"Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Federated Object Detection"**, presented at NeurIPS 2023 [[Link](https://openreview.net/forum?id=2D7ou48q0E)], by **[Taehyeon Kim](https://taehyeon.oopy.io/)**, Eric Lin, Junu Lee, Christian Lau, and Vaikkunth Mugunthan. 
 
 🎤 **TL;DR**: We introduce a groundbreaking Semi-Supervised Federated Object Detection (SSFOD) framework where the server has labeled data and all clients have only unlabeled data. We believe that our generic framework could be a game-changer for autonomous driving systems and CCTV stuff!
 
